@@ -56,7 +56,9 @@ web/templates/index.html: The HTML template for the web page.
 
 Stopping the Application 🛑
 To stop the application, press Ctrl+C in the terminal where docker-compose up is running. Alternatively, you can stop the containers with:
-"docker-compose down"
+ ```bash
+   docker-compose down
+   ```
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
